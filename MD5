@@ -1,0 +1,10 @@
+d6d4fabaf0bcfecad68548dfc4ed42a7 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+20610771a55b13ecd462067519e6a1f7 *R/avg_yll.R
+da746b6d4b3e5628ab21d231e961702d *R/yll.R
+1165753cc4e59a3fe8439ffcf1a1351e *README.md
+4def2f6a75fb01abdadd922a7d371b63 *man/avg_yll.Rd
+4b2c9b115c9cda1cac22d411ae6dbb80 *man/yll.Rd
+fec8b48665ed7f247cefb226e29d328d *tests/testthat.R
+e8b5a0f2a6cda152a36ce0b8b84f3cba *tests/testthat/test-avg_yll.R
+f1ef00580458de098ddafaecb354bfb7 *tests/testthat/test-yll-avgyll.R
